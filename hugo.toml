@@ -1,0 +1,4 @@
+baseURL = 'https://theocrsb.fr/'
+languageCode = 'en'
+title = 'theocrsb'
+theme = 'ananke'
